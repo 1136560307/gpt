@@ -1,0 +1,3 @@
+deploy version: compact-hero-visual-2026-05-23-01
+latest index commit expected: 39c0470
+hero visual asset: assets/hero-main-visual.svg
